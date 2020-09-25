@@ -11,8 +11,6 @@ function App() {
     <BrowserRouter>
       <Header />
 
-      <h1>Rocketseat</h1>
-
       <Routes>
         <Route path="/" element={<Profile />} />
         <Route path="/:username" element={<Profile />} />
