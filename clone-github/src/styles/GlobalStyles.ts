@@ -39,6 +39,7 @@ export default createGlobalStyle`
     --link: #0366d6;
     --border: #e1e4e8;
     --ticker: rgba(209,213,218, .5);    
+    
     --calendar-scale-0: #ebedf0;
     --calendar-scale-1: #9BE9A8;
     --calendar-scale-2: #3FC463;
