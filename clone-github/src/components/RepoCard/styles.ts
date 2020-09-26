@@ -71,8 +71,17 @@ export const Botside = styled.div`
     border-radius: 50%;
     flex-shrink: 0;
 
-    &.order {
+    &.other {
       background: var(--other-language);      
+    }
+    &.java {
+      background: var(--java);      
+    }
+    &.css {
+      background: var(--css);
+    }
+    &.html {
+      background: var(--html);
     }
     &.javascript {
       background: var(--javascript);      

@@ -42,10 +42,12 @@ const RepoCard: React.FC<Props> = ({
 
       <Botside>
         <ul>
-          <li>
-            <div className={`language ${languageClass}`} />
-            <span>{language}</span>
-          </li>
+          {language && (
+            <li>
+              <div className={`language ${languageClass}`} />
+              <span>{language}</span>
+            </li>
+          )}
           <li>
             <StarIcon />
             <span>{stars}</span>
