@@ -120,7 +120,7 @@ const Profile: React.FC = () => {
           </Repos>
 
           <CalendarHeading>
-            Random calendar (do not represent actual data)
+            Random calendar
           </CalendarHeading>
 
           <RandomCalendar />
