@@ -2,7 +2,9 @@
 > Recriando interface do **GitHub** :octocat: com **ReactJS**.
 
 <p>
-  <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" >
+  <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" />
+  
+   <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript"/>
 
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
