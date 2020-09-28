@@ -1,5 +1,5 @@
 # UI Clone - GitHub
-> Recriando interface do **GitHub** com **ReactJS**.
+> Recriando interface do **GitHub** :octocat: com **ReactJS**.
 
 <p>
   <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" >
@@ -25,6 +25,7 @@
   - [Light mode :sunny:](#sunny-light-mode)
   - [Dark mode :last_quarter_moon_with_face:](#last_quarter_moon_with_face-dark-mode)
 - [Como obter o layout](#page_with_curl-como-obter-o-layout)
+- [Desafios](#star-desafios)
 - [Autor](#memo-autor)
 
 
@@ -54,6 +55,11 @@ Guilherme Rodz](https://github.com/guilhermerodz). [Vídeo](https://www.youtube.
   # inicie o projeto
   $ yarn start
 ```
+
+## :star: Desafios
+- [] Aplicar [SWR](https://swr.vercel.app/)
+- [] Consumir dados da [API v4 com GraphQL](https://developer.github.com/v4/)
+
 
 ## :memo: Autor
 <a href="https://github.com/lucasfdcampos">
