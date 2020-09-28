@@ -1,44 +1,64 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Curso de Redux
+> UI Clone - Recriando interface do **GitHub** com **ReactJS**.
 
-## Available Scripts
+<p>
+  <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" >
 
-In the project directory, you can run:
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
-### `yarn start`
+  <img src="https://img.shields.io/badge/-Flexbox-1572B6?style=for-the-badge&logo=css3" />
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" />
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+  <a href="https://api.github.com/users/lucasfdcampos">
+      <img src="https://img.shields.io/badge/api-GitHub-181717?style=for-the-badge" />
+  </a>
 
-### `yarn test`
+  <a href="https://rocketseat.com.br">
+      <img src="https://img.shields.io/badge/from-rocketseat-blueviolet?style=for-the-badge" />
+  </a>
+<p>
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Menu
+- [Sobre](#pushpin-sobre)
+- [Layout](#computer-layout)
+  - [Light Mode](##sunny-light-mode)
+  - [Dark Mode](##new_moon-dark-mode)
+- [Como obter o layout](#page_with_curl-como-obter-o-layout)
+- [Autor](#memo-autor)
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## :pushpin: Sobre
+Layout de UI Clone (com responsividade :iphone:) de interface do **GitHub** ministrado por [
+Guilherme Rodz](https://github.com/guilhermerodz). [Vídeo](https://www.youtube.com/watch?v=iLEbGQXsg3k) disponível no [canal da Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg).
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## :computer: Layout
+### :sunny: Light mode
+<img src="images/ui-clone-github-light-mode.png" alt="Light-Mode">
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### :new_moon: Dark mode
+<img src="images/ui-clone-github-dark-mode.png" alt="Dark-Mode">
 
-### `yarn eject`
+## :page_with_curl: Como obter o layout
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+```bash
+  # clone o repositório
+  $ git clone https://github.com/lucasfdcampos/rocketseat-youtube.git
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+  # acesse o diretório
+  $ cd clone-github
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+  # instale as dependências
+  $ yarn 
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+  # inicie o projeto
+  $ yarn start
+```
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+## :memo: Autor
+<a href="https://github.com/lucasfdcampos">
+    <img src="https://img.shields.io/badge/-Lucas%20Campos-000000?style=for-the-badge&logo=GitHub&logoColor=#000000" />
+</a>
+&nbsp
+<a href="https://linkedin.com/in/lucasfdcampos"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
