@@ -22,8 +22,8 @@
 # Menu
 - [Sobre](#pushpin-sobre)
 - [Layout](#computer-layout)
-  - [Light Mode](##sunny-light-mode)
-  - [Dark Mode](##new_moon-dark-mode)
+  - [Light Mode](#sunny-light-mode)
+  - [Dark Mode](#last_quarter_moon_with_face-dark-mode)
 - [Como obter o layout](#page_with_curl-como-obter-o-layout)
 - [Autor](#memo-autor)
 
@@ -36,7 +36,7 @@ Guilherme Rodz](https://github.com/guilhermerodz). [Vídeo](https://www.youtube.
 ### :sunny: Light mode
 <img src="images/ui-clone-github-light-mode.png" alt="Light-Mode">
 
-### :new_moon: Dark mode
+### :last_quarter_moon_with_face: Dark mode
 <img src="images/ui-clone-github-dark-mode.png" alt="Dark-Mode">
 
 ## :page_with_curl: Como obter o layout
