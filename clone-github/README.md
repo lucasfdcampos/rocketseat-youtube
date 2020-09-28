@@ -57,8 +57,8 @@ Guilherme Rodz](https://github.com/guilhermerodz). [Vídeo](https://www.youtube.
 ```
 
 ## :star: Desafios
-- [] Aplicar [SWR](https://swr.vercel.app/)
-- [] Consumir dados da [API v4 com GraphQL](https://developer.github.com/v4/)
+- [ ] Aplicar [SWR](https://swr.vercel.app/)
+- [ ] Consumir dados da [API v4 com GraphQL](https://developer.github.com/v4/)
 
 
 ## :memo: Autor
