@@ -1,5 +1,7 @@
-import React from "react";
-import { Link } from "react-router-dom";
+import React, { useEffect, useState } from "react";
+import { Link, useParams } from "react-router-dom";
+
+import { APIRepo } from "../../@types";
 
 import {
   Container,
@@ -13,47 +15,58 @@ import {
 } from "./styles";
 
 const Repo: React.FC = () => {
+  const { username, reponame } = useParams();
+  const [repo, setRepo] = useState<APIRepo>();
+
+  useEffect(() => {
+    fetch(`http://api.github.com/repos/${username}/${reponame}`).then(
+      async (response) => {
+        response.json().then((repo) => {
+          setRepo(repo);
+        });
+      }
+    );
+  }, [username, reponame]);
+
+  if (!repo) {
+    return <h1>Loading...</h1>;
+  }
+
   return (
     <Container>
       <Breadcrumb>
         <RepoIcon />
-        <Link className={"username"} to={"/lucasfdcampos"}>
-          lucasfdcampos
+
+        <Link className={"username"} to={`/${username}`}>
+          {repo.owner.login}
         </Link>
 
         <span>/</span>
 
         <Link
           className={"reponame"}
-          to={"/lucasfdcampos/rocketseat-bootcamp-gostack-bonus-cursos"}
+          to={`/${repo.owner.login}/${repo.name}`}
         >
-          rocketseat-bootcamp-gostack-bonus-cursos
+          {repo.name}
         </Link>
       </Breadcrumb>
 
-      <p>
-        Repository dedicated to Rocketseat's Gostack Bootcamp bonus (reward)
-        courses.
-      </p>
+      <p>{repo.description}</p>
 
       <Stats>
         <li>
           <StarIcon />
-          <b>8</b>
+          <b>{repo.stargazers_count}</b>
           <span>stars</span>
         </li>
         <li>
           <ForkIcon />
-          <b>1</b>
+          <b>{repo.forks}</b>
           <span>forks</span>
         </li>
       </Stats>
 
-      <LinkButton
-        href={
-          "https://github.com/lucasfdcampos/rocketseat-bootcamp-gostack-bonus-cursos"
-        }
-      >
+      <LinkButton href={repo.html_url}>
         <GithubIcon />
         <span>View on GitHub</span>
       </LinkButton>

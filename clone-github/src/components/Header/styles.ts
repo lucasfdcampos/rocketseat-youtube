@@ -30,6 +30,7 @@ export const SearchForm = styled.form`
     border-radius: 6px;
     padding: 7px 12px;
     width: 100%;
+    color: #fff;
 
     &:focus {
       width: 318px;
