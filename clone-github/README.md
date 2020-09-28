@@ -1,5 +1,5 @@
-# Curso de Redux
-> UI Clone - Recriando interface do **GitHub** com **ReactJS**.
+# UI Clone - GitHub
+> Recriando interface do **GitHub** com **ReactJS**.
 
 <p>
   <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" >
@@ -22,8 +22,8 @@
 # Menu
 - [Sobre](#pushpin-sobre)
 - [Layout](#computer-layout)
-  - [Light Mode](#sunny-light-mode)
-  - [Dark Mode](#last_quarter_moon_with_face-dark-mode)
+  - [Light mode :sunny:](#sunny-light-mode)
+  - [Dark mode :last_quarter_moon_with_face:](#last_quarter_moon_with_face-dark-mode)
 - [Como obter o layout](#page_with_curl-como-obter-o-layout)
 - [Autor](#memo-autor)
 
