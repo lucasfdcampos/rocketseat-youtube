@@ -22,11 +22,11 @@
   <a href="#movie_camera-tutorials">Tutorials
 </p>
 
-## :trophy: Motivação
+## :trophy: Motivation
 
 >Repo dedicated to Rocketseat YouTube channel tutorials
 
-With the main objective of taking devs to the next level, the **[Rocketseat](https://rocketseat.com.br)** always makes new content available on its [channel](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg) to boost its dev community.
+With the main objective of taking devs to the next level, the [Rocketseat](https://rocketseat.com.br) always makes new content available on its [channel](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg) to boost its dev community.
 
 ## 🚀 Technologies
 
