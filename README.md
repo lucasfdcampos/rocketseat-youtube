@@ -23,11 +23,10 @@
 </p>
 
 ## :trophy: Motivação
-Repositório dedicado aos tutoriais do [canal](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg) da [Rocketseat](https://rocketseat.com.br) no **YouTube**.
 
 >Repo dedicated to Rocketseat YouTube channel tutorials
 
-With the main objective of taking devs to the next level, the **Rocketseat** always makes new content available on its channel to boost its dev community.
+With the main objective of taking devs to the next level, the **[Rocketseat](https://rocketseat.com.br)** always makes new content available on its [channel](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg) to boost its dev community.
 
 ## 🚀 Technologies
 
@@ -39,3 +38,11 @@ With the main objective of taking devs to the next level, the **Rocketseat** alw
 ## :movie_camera: Tutorials
 - [UI Clone - GitHub](https://github.com/lucasfdcampos/rocketseat-youtube/tree/master/clone-github)
 
+---
+<a href="https://github.com/lucasfdcampos">
+    <img src="https://img.shields.io/badge/-Lucas%20Campos-000000?style=for-the-badge&logo=GitHub&logoColor=#000000" />
+</a>
+&nbsp
+<a href="https://linkedin.com/in/lucasfdcampos">
+  <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
