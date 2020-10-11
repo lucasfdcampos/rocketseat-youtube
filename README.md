@@ -17,14 +17,14 @@
 </p>
 
 <p align="center">
-  <a href="#trophy-motivation">Motivation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-motivation">Motivation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#movie_camera-tutorials">Tutorials
+  <a href="#-tutorials">Tutorials
 </p>
 
 ## :trophy: Motivation
 
->Repo dedicated to Rocketseat YouTube channel tutorials
+> Repo dedicated to Rocketseat YouTube channel tutorials
 
 With the main objective of taking devs to the next level, the Rocketseat always makes new content available on its channel to boost its dev community.
 
@@ -36,9 +36,11 @@ With the main objective of taking devs to the next level, the Rocketseat always 
 - [React Native](https://reactnative.dev/)
 
 ## :movie_camera: Tutorials
+
 - [UI Clone - GitHub](https://github.com/lucasfdcampos/rocketseat-youtube/tree/master/clone-github)
 
 ---
+
 <a href="https://github.com/lucasfdcampos">
     <img src="https://img.shields.io/badge/-Lucas%20Campos-000000?style=for-the-badge&logo=GitHub&logoColor=#000000" />
 </a>
