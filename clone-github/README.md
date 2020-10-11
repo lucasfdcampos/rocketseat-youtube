@@ -44,17 +44,25 @@ UI Clone tutorial of the layout (with responsiveness: iphone :) of GitHub interf
 _Obs: this is a monorepo about all projects and tutorials of Rocketseat channel. Go to the correct directory._
 
 ```bash
-  # clone o repositório
-  $ git clone https://github.com/lucasfdcampos/rocketseat-youtube.git
+$ git clone https://github.com/lucasfdcampos/rocketseat-youtube.git
+```
 
-  # acesse o diretório
-  $ cd clone-github
+**Access the directory**
 
-  # instale as dependências
-  $ yarn
+```bash
+$ cd clone-github
+```
 
-  # inicie o projeto
-  $ yarn start
+**Install dependencies**
+
+```bash
+$ yarn
+```
+
+**Start**
+
+```bash
+$ yarn start
 ```
 
 ## :star: Challenges
