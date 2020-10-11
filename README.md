@@ -17,9 +17,9 @@
 </p>
 
 <p align="center">
-  <a href="#-motivation">Motivation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#trophy-motivation">Motivation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tutorials">Tutorials
+  <a href="#movie_camera-tutorials">Tutorials
 </p>
 
 ## :trophy: Motivação
