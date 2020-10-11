@@ -21,8 +21,8 @@
   <a href="#pushpin-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#computer-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#page_with_curl-how-to-get">How to get</a>
-  <a href="#star-challenges">How to get</a>
+  <a href="#page_with_curl-how-to-get">How to get</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#star-challenges">Challenges</a>
 </p>
 
 ## :pushpin: About
@@ -59,8 +59,8 @@ _Obs: this is a monorepo about all projects and tutorials of Rocketseat channel.
 
 ## :star: Challenges
 
-- [SWR](https://swr.vercel.app/)
-- [API v4 with GraphQL](https://developer.github.com/v4/)
+- Apply [SWR](https://swr.vercel.app/)
+- Connect [API v4 with GraphQL](https://developer.github.com/v4/)
 
 ---
 
