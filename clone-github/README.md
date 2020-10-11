@@ -1,48 +1,47 @@
-# UI Clone - GitHub
-> Recriando interface do **GitHub** :octocat: com **ReactJS**.
+<h1 align="center">
+  <img src="./images/github.png" alt="Logo" height="45"><br /><br />
+  <img src="./images/octocat.png" height="200" width="300" max-width="100%" alt="rocketseat">
+</h1>
 
-<p>
-  <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" />
-  
-   <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript"/>
+<h3 align="center">
+  UI Clone - Clone GitHub interface.
+</h3>
 
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/-Flexbox-1572B6?style=for-the-badge&logo=css3" />
-
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" />
-
-  <a href="https://api.github.com/users/lucasfdcampos">
-      <img src="https://img.shields.io/badge/api-GitHub-181717?style=for-the-badge" />
+<p align="center">
+   <a href="https://www.linkedin.com/in/lucasfdcampos/">
+    <img alt="Made by" src="https://img.shields.io/badge/made%20by-Lucas%20Campos-9cf">
   </a>
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/lucasfdcampos/rocketseat-youtube?color=9cf">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/lucasfdcampos/rocketseat-youtube?color=9cf">
+  <a href="https://github.com/lucasfdcampos/ecoleta/commits/master"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lucasfdcampos/rocketseat-youtube?color=9cf"></a>
+  <a href="https://github.com/lucasfdcampos/ecoleta/issues"><img alt="Repository issues" src="https://img.shields.io/github/issues/lucasfdcampos/rocketseat-youtube?color=9cf"></a>
+</p>
 
-  <a href="https://rocketseat.com.br">
-      <img src="https://img.shields.io/badge/from-rocketseat-blueviolet?style=for-the-badge" />
-  </a>
-<p>
+<p align="center">
+  <a href="#pushpin-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#computer-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#page_with_curl-how-to-get">How to get</a>
+  <a href="#star-challenges">How to get</a>
+</p>
 
-# Menu
-- [Sobre](#pushpin-sobre)
-- [Layout](#computer-layout)
-  - [Light mode :sunny:](#sunny-light-mode)
-  - [Dark mode :last_quarter_moon_with_face:](#last_quarter_moon_with_face-dark-mode)
-- [Como obter o layout](#page_with_curl-como-obter-o-layout)
-- [Desafios](#star-desafios)
-- [Autor](#memo-autor)
+## :pushpin: About
 
-
-## :pushpin: Sobre
-Layout de UI Clone (com responsividade :iphone:) de interface do **GitHub** ministrado por [
-Guilherme Rodz](https://github.com/guilhermerodz). [Vídeo](https://www.youtube.com/watch?v=iLEbGQXsg3k) disponível no [canal da Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg).
+UI Clone tutorial of the layout (with responsiveness: iphone :) of GitHub interface taught by [Guilherme Rodz](https://github.com/guilhermerodz). Video available on the [Rocketseat channel](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg).
 
 ## :computer: Layout
+
 ### :sunny: Light mode
+
 <img src="images/ui-clone-github-light-mode.png" alt="Light-Mode">
 
 ### :last_quarter_moon_with_face: Dark mode
+
 <img src="images/ui-clone-github-dark-mode.png" alt="Dark-Mode">
 
-## :page_with_curl: Como obter o layout
+## :page_with_curl: How to get
+
+_Obs: this is a monorepo about all projects and tutorials of Rocketseat channel. Go to the correct directory._
 
 ```bash
   # clone o repositório
@@ -52,21 +51,23 @@ Guilherme Rodz](https://github.com/guilhermerodz). [Vídeo](https://www.youtube.
   $ cd clone-github
 
   # instale as dependências
-  $ yarn 
+  $ yarn
 
   # inicie o projeto
   $ yarn start
 ```
 
-## :star: Desafios
-- [ ] Aplicar [SWR](https://swr.vercel.app/)
-- [ ] Consumir dados da [API v4 com GraphQL](https://developer.github.com/v4/)
+## :star: Challenges
 
+- [SWR](https://swr.vercel.app/)
+- [API v4 with GraphQL](https://developer.github.com/v4/)
 
-## :memo: Autor
+---
+
 <a href="https://github.com/lucasfdcampos">
     <img src="https://img.shields.io/badge/-Lucas%20Campos-000000?style=for-the-badge&logo=GitHub&logoColor=#000000" />
 </a>
 &nbsp
-<a href="https://linkedin.com/in/lucasfdcampos"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://linkedin.com/in/lucasfdcampos">
+  <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
