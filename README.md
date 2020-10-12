@@ -12,8 +12,8 @@
   </a>
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/lucasfdcampos/rocketseat-youtube?color=red">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/lucasfdcampos/rocketseat-youtube?color=red">
-  <a href="https://github.com/lucasfdcampos/ecoleta/commits/master"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lucasfdcampos/rocketseat-youtube?color=red"></a>
-  <a href="https://github.com/lucasfdcampos/ecoleta/issues"><img alt="Repository issues" src="https://img.shields.io/github/issues/lucasfdcampos/rocketseat-youtube?color=red"></a>
+  <a href="https://github.com/lucasfdcampos/rocketseat-youtube?/commits/master"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lucasfdcampos/rocketseat-youtube?color=red"></a>
+  <a href="https://github.com/lucasfdcampos/rocketseat-youtube?/issues"><img alt="Repository issues" src="https://img.shields.io/github/issues/lucasfdcampos/rocketseat-youtube?color=red"></a>
 </p>
 
 <p align="center">
