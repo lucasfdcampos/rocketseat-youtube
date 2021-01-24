@@ -27,7 +27,7 @@
 
 ## :pushpin: About
 
-UI Clone tutorial of the layout (with responsiveness: iphone :) of GitHub interface taught by [Guilherme Rodz](https://github.com/guilhermerodz). Video available on the [Rocketseat channel](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg).
+UI Clone tutorial of the layout (with responsiveness :iphone) of GitHub interface taught by [Guilherme Rodz](https://github.com/guilhermerodz). Video available on the [Rocketseat channel](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg).
 
 ## :computer: Layout
 
