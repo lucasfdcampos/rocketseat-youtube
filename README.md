@@ -35,6 +35,7 @@ With the main objective of taking devs to the next level, the [Rocketseat](https
 - [ReactJS](https://reactjs.org/)
 - [React Native](https://reactnative.dev/)
 - [Next.js](https://nextjs.org/)
+- [Styled-components](https://styled-components.com/)
 
 ## :movie_camera: Tutorials
 
