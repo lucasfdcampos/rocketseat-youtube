@@ -38,6 +38,7 @@ With the main objective of taking devs to the next level, the [Rocketseat](https
 ## :movie_camera: Tutorials
 
 - [UI Clone - GitHub](https://github.com/lucasfdcampos/rocketseat-youtube/tree/master/clone-github)
+- [UI Clone - LinkedIn](https://github.com/lucasfdcampos/rocketseat-youtube/tree/master/clone-linkedin-shimmer-effect)
 
 ---
 
