@@ -34,6 +34,7 @@ With the main objective of taking devs to the next level, the [Rocketseat](https
 - [TypeScript](https://www.typescriptlang.org/)
 - [ReactJS](https://reactjs.org/)
 - [React Native](https://reactnative.dev/)
+- [Next.js](https://nextjs.org/)
 
 ## :movie_camera: Tutorials
 
