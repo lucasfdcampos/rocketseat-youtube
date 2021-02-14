@@ -1,6 +1,13 @@
 import { GetStaticPaths, GetStaticProps } from 'next';
+import { useRouter } from 'next/router';
 
 export default function Member({ user }) {
+  const { isFallback } = useRouter();
+
+  if (isFallback) {
+    return <p>Carregando...</p>;
+  }
+
   return (
     <div>
       <img
@@ -21,13 +28,13 @@ export const getStaticPaths: GetStaticPaths = async () => {
   );
   const data = await response.json();
 
-  const paths = data.map((member) => {
+  const paths = data.map(member => {
     return { params: { login: member.login } };
   });
 
   return {
     paths,
-    fallback: false,
+    fallback: true,
   };
 };
 
