@@ -43,7 +43,7 @@ With the main objective of taking devs to the next level, the [Rocketseat](https
 - [UI Clone - LinkedIn](https://github.com/lucasfdcampos/rocketseat-youtube/tree/master/clone-linkedin-shimmer-effect)
 - [Code/Drops #50 - ReactJS + Next.js structure](https://github.com/lucasfdcampos/rocketseat-youtube/tree/master/react-nextjs-typescript-structure)
 - [Code/Drops #54 - Serverless ReactJS e Next.js](https://github.com/lucasfdcampos/rocketseat-youtube/tree/master/nextjs-functions)
-
+- [Code/Drops #59 - Essa feature fez o Next.js ser o framework mais popular](https://github.com/lucasfdcampos/rocketseat-youtube/tree/master/nextjs-ssg)
 
 ---
 
