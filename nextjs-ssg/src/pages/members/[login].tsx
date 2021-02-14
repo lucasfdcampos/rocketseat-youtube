@@ -1,5 +1,4 @@
 import { GetStaticPaths, GetStaticProps } from 'next';
-import { useRouter } from 'next/router';
 
 export default function Member({ user }) {
   return (
