@@ -25,7 +25,12 @@ export async function getPostBySlug(slug: any) {
   const meta = matter(fileContent.default);
   const content = marked(meta.content);
 
-  const thumbnailUrl = `http://localhost:3000/api/thumbnail.png?title=${meta.data.title}`;
+  const baseURL =
+    process.env.NODE_ENV === 'development'
+      ? 'http://localhost:3000'
+      : 'https://nextjs-serverless-thumb-generator.app';
+
+  const thumbnailUrl = `${baseURL}/api/thumbnail.png?title=${meta.data.title}`;
 
   return {
     title: meta.data.title,
