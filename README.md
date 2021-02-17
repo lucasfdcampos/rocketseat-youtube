@@ -44,7 +44,8 @@ With the main objective of taking devs to the next level, the [Rocketseat](https
 - [Code/Drops #50 - Como inicio meus apps com ReactJS? Next.js, TypeScript, ESLint e Styled Components](https://github.com/lucasfdcampos/rocketseat-youtube/tree/master/react-nextjs-typescript-structure)
 - [Code/Drops #54 - Serverless com ReactJS e Next.js na Vercel](https://github.com/lucasfdcampos/rocketseat-youtube/tree/master/nextjs-functions)
 - [Code/Drops #59 - Essa feature fez o Next.js ser o framework mais popular](https://github.com/lucasfdcampos/rocketseat-youtube/tree/master/nextjs-ssg)
-- [Code/Drops #55 - Thumbnail as a service: serverless com Next.js e Puppeteer ](https://github.com/lucasfdcampos/rocketseat-youtube/tree/master/nextjs-serverless-thumb-generator)
+- [Code/Drops #55 - Thumbnail as a service: serverless com Next.js e Puppeteer](https://github.com/lucasfdcampos/rocketseat-youtube/tree/master/nextjs-serverless-thumb-generator)
+- [Code Challenge - Pagamento com Stripe e Next.js SSG](https://github.com/lucasfdcampos/rocketseat-youtube/tree/master/nextjs-stripe)
 
 ---
 
