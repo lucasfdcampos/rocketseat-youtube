@@ -47,6 +47,7 @@ With the main objective of taking devs to the next level, the [Rocketseat](https
 - [Code/Drops #55 - Thumbnail as a service: serverless com Next.js e Puppeteer](https://github.com/lucasfdcampos/rocketseat-youtube/tree/master/nextjs-serverless-thumb-generator)
 - [Code Challenge - Pagamento com Stripe e Next.js SSG](https://github.com/lucasfdcampos/rocketseat-youtube/tree/master/nextjs-stripe)
 - [Code/Drops #16 - Tema light/dark com React, Styled Components e TypeScript](https://github.com/lucasfdcampos/rocketseat-youtube/tree/master/react-theme-switcher)
+- [Code/Drops #38 - Consumindo APIs no React com SWR](https://github.com/lucasfdcampos/rocketseat-youtube/tree/master/react-swr)
 
 ---
 
