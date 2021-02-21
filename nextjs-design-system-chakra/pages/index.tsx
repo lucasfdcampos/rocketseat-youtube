@@ -42,22 +42,13 @@ export default function Home() {
         alignItems="stretch"
         padding={16}
       >
-        <Input
-          name="email"
-          placeholder="E-mail"
-          borderRadius="sm"
-          backgroundColor="gray.800"
-          focusBorderColor="purple.500"
-        />
+        <Input name="email" placeholder="E-mail" />
 
         <Input
-          type="password"
           name="password"
+          type="password"
           placeholder="Senha"
           marginTop={2}
-          borderRadius="sm"
-          backgroundColor="gray.800"
-          focusBorderColor="purple.500"
         />
 
         <Link
@@ -70,16 +61,8 @@ export default function Home() {
         >
           Esqueci minha senha
         </Link>
-        
-        <Button
-          backgroundColor="purple.500"
-          padding={2}
-          borderRadius="sm"
-          marginTop={6}
-          _hover={{ backgroundColor: 'purple.600' }}
-        >
-          ENTRAR
-        </Button>
+
+        <Button marginTop={6}>ENTRAR</Button>
 
         <Text textAlign="center" fontSize="sm" color="gray.300" marginTop={6}>
           Não tem uma conta?{' '}

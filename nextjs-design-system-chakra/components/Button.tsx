@@ -11,6 +11,7 @@ const Button: React.FC<ButtonProps> = ({ children, ...rest }) => {
       _hover={{ backgroundColor: "purple.600" }} 
       height="50px" 
       borderRadius="sm" 
+      padding={2}
       {...rest}
     >
       {children}
