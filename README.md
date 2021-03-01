@@ -50,6 +50,7 @@ With the main objective of taking devs to the next level, the [Rocketseat](https
 - [Code/Drops #38 - Consumindo APIs no React com SWR](https://github.com/lucasfdcampos/rocketseat-youtube/tree/master/react-swr)
 - [Code/Drops #48 - Aplicações React do futuro? UI declarativas, design system e frameworks](https://github.com/lucasfdcampos/rocketseat-youtube/tree/master/nextjs-design-system-chakra)
 - [Code/Drops #45 - Consumindo API no Front e no Back-end](https://github.com/lucasfdcampos/rocketseat-youtube/tree/master/consuming-api)
+- [Code/Drops #34 - Criando um PWA com React Native & Expo Web](https://github.com/lucasfdcampos/rocketseat-youtube/tree/master/react-pwa-expo)
 
 ---
 
