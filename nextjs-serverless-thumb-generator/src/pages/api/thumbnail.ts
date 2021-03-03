@@ -7,13 +7,19 @@ const isDev = !process.env.AWS_REGION;
 export default async function (req: NextApiRequest, res: NextApiResponse) {
   try {
     const title = String(req.query.title);
-    const thumbnail_bg = String(req.query.thumbnail_bg);
+    let thumbnail_bg = String(req.query.thumbnail_bg);
+
+    if (thumbnail_bg === 'undefined') {
+      thumbnail_bg = '#121214';
+    }
 
     if (!title) {
       throw new Error('Title is required');
     }
 
     const html = getThumbnailTemplate({ title, thumbnail_bg });
+
+    console.log(html);
 
     const file = await getScreenshot(html, isDev);
 
